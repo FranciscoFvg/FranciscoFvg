@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscofvg&label=Profile%20views&color=0e75b6&style=flat" alt="franciscofvg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franciscofvg" alt="franciscofvg" /></a> </p>
-
 - 🔭 I’m currently working on [Drone warehouse](https://github.com/FranciscoFvg)
 
 - 🌱 I’m currently learning **Python and Django.**
