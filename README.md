@@ -6,16 +6,16 @@
 ### <div align="center">I'm Vitor Gomes, a full-stack developer 👨‍💻 working remotely since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on [EnivixLabs](http://enivixlabs.com.br)  
+- 🔭 I'm currently studying/improving my skills in Backend.
   
 
-- 🌱 I’m currently learning Python and Django  
+- 🌱 I’m currently learning C#.
   
 
-- ❓ Ask me about anything related to React and related technologies  
+- ❓ Ask me about anything related to C# and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces.
   
 
 <br/>  
