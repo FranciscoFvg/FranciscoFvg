@@ -9,10 +9,7 @@
 - 🔭 I'm currently studying/improving my skills in Backend.
   
 
-- 🌱 I’m currently learning C#.
-  
-
-- ❓ Ask me about anything related to C# and related technologies  
+- 🌱 I’m currently learning Node and React.
   
 
 - ⚡ Fun fact: I use tabs over spaces.
@@ -81,9 +78,6 @@
 <div align="center">
 <a href="https://github.com/FranciscoFvg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/V1tor_Gomes" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/francisco-vitor-gomes-castro-7bb2ba225" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
