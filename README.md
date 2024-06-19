@@ -3,17 +3,12 @@
 </div>  
   
 
-### <div align="center">I'm Vitor Gomes, a full-stack developer 👨‍💻 working remotely since 2022🚀</div>  
-  
+### Olá, bem-vindo ao meu perfil 
 
-- 🔭 I'm currently studying/improving my skills in Backend.
+## Eu sou Vitor Gomes, um Desenvolvedor Fullstack Junior
   
-
-- 🌱 I’m currently learning Node and React.
-  
-
-- ⚡ Fun fact: I use tabs over spaces.
-  
+- 🔭 Estou estudando/melhorando minhas habilidades em desenvolvimento Backend.
+- 🌱 Atualmente estou aprendendo sobre Node.js e React.
 
 <br/>  
 
@@ -70,7 +65,7 @@
 <br/>  
 
 
-## Connect with me  
+## Conecte-se comigo 
 <div align="center">
 <a href="https://github.com/FranciscoFvg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -88,9 +83,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FranciscoFvg&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<div style="display: flex;">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api?username=FranciscoFvg&show_icons=true&theme=tokyonight">
+  <img style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFvg&theme=tokyonight&layout=compact">
+</div>
 
 
 ## Bonus  
@@ -114,4 +110,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
